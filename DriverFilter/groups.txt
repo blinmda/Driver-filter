@@ -1,0 +1,5 @@
+mbks_admin.exe ADMIN
+mbks_user.exe USER
+mbks_guest.exe GUEST
+new.exe USER
+123.exe GUEST

@@ -1,0 +1,7 @@
+﻿  Building 'DriverFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\DriverFilter.inf
+  Stamping [Version] section with DriverVer=03/11/2024,22.29.25.728
+C:\Users\user\source\repos\DriverFilter\DriverFilter\DriverFilter.inf : error 1420: [DefaultInstall]-based INF cannot be processed as Primitive.
+C:\Users\user\source\repos\DriverFilter\DriverFilter\DriverFilter.inf(27-27): error 1421: Section [DefaultInstall] should have an architecture decoration.
+C:\Users\user\source\repos\DriverFilter\DriverFilter\DriverFilter.inf(38-38): error 1421: Section [DefaultUninstall] should have an architecture decoration.
+C:\Users\user\source\repos\DriverFilter\DriverFilter\DriverFilter.inf(76-76): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.

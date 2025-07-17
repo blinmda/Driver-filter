@@ -1,0 +1,3 @@
+USER \Users\abmnild\Desktop\lab1\0 write
+GUEST \Users\abmnild\Desktop\lab1\0 write
+GUEST \Users\abmnild\Desktop\lab1\0 read

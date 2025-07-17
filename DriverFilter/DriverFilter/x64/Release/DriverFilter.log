@@ -1,0 +1,26 @@
+﻿  Building 'DriverFilter' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Release\DriverFilter.inf
+  Stamping [Version] section with DriverVer=03/29/2024,12.24.11.205
+C:\Users\user\source\repos\DriverFilter\DriverFilter\DriverFilter.inf(77-77): warning 1205: Section [MiniFilter.DriverFiles] referenced from DelFiles and CopyFiles directive.
+  filter.c
+  DriverFilter.vcxproj -> C:\Users\user\source\repos\DriverFilter\x64\Release\DriverFilter.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\source\repos\DriverFilter\x64\Release\DriverFilter.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\user\source\repos\DriverFilter\x64\Release\DriverFilter\driverfilter.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\user\source\repos\DriverFilter\x64\Release\DriverFilter\driverfilter.cat
+  
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
